@@ -33,3 +33,9 @@
 blender/forge.blend
 *.pyc
 *.pdb
+
+packages/*
+ForgeLib/obj/*
+ForgeLib/bin/*
+ForgeConsole/bin/*
+ForgeConsole/obj/*
