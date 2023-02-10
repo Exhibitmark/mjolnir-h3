@@ -1,6 +1,9 @@
-### MJOLNIR
+# MJOLNIR
 Mjolnir is a Blender tool for importing/exporting/building Halo 3 Forge maps in Master Chief Collection
 Working as of halo3.dll build 1.3073.0.0 
+
+### Brief Tutorial
+https://www.youtube.com/watch?v=bnRqn_kbU0w
 
 **Features**
 - Import / Export Objects to and from game
@@ -25,6 +28,3 @@ Working as of halo3.dll build 1.3073.0.0
 1. Download the zip of the current release build.
 2. Extract all the contents of the zip to the same folder. It shouldn't matter what folder just keep all the files together.
 3. Follow the video for basic usage information.
-
-### Brief Tutorial
-https://www.youtube.com/watch?v=bnRqn_kbU0w
